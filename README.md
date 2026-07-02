@@ -1,6 +1,4 @@
-# Prodigy InfoTech Data Science Internship - Task 01
-
-## Data Visualization using Bar Chart and Histogram
+# PRODIGY_DS_01 - Data Visualization using Bar Chart and Histogram
 
 ### 📌 Objective
 The objective of this project is to create visualizations that represent the distribution of categorical and continuous variables using Python. The analysis helps in understanding the characteristics of the dataset through graphical representations.
